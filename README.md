@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔗 Connect
+### 🔗 Connect
 <a href='https://www.linkedin.com/in/shaheenfazim'><img src='https://i.stack.imgur.com/VrlLG.png' width='24'/></a>&nbsp;
