@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 <a href='https://www.behance.com/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Behance.png' width='30'/></a>&nbsp;
 <a href='https://www.instagram.com/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Instagram.png' width='30'/></a>&nbsp;
 <a href='https://www.twittr.com/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Twitter.png' width='30'/></a>&nbsp;
-<a href='https://discordapp.com/fazim/9133/'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Discord.png' width='30'/></a>&nbsp;
+<a href='https://discordapp.com/users/fazim#9133/'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Discord.png' width='30'/></a>&nbsp;
 
