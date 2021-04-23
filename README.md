@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### 🔗 Connect
-<a href='https://www.linkedin.com/in/shaheenfazim'><img src='Social/Linkein.png' width='24'/></a>&nbsp;
+<a href='https://www.linkedin.com/in/shaheenfazim'><img src='/Social/Linkein.png' width='24'/></a>&nbsp;
