@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-&nbsp;### 🔗 Connect
-<a href='https://www.linkedin.com/in/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Linkedin.png' width='30'/></a>&nbsp;
-<a href='https://www.behance.com/behance'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Behance.png' width='30'/></a>&nbsp;
+### 🔗 Connect
+&nbsp;<a href='https://www.linkedin.com/in/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Linkedin.png' width='30'/></a>&nbsp;
+<a href='https://www.behance.com/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Behance.png' width='30'/></a>&nbsp;
+<a href='https://www.instagram.com/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Instagram.png' width='30'/></a>&nbsp;
+<a href='https://www.twittr.com/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Twittere.png' width='30'/></a>&nbsp;
+<a href='https://discordapp.com/fazim/9133/'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Discord.png' width='30'/></a>&nbsp;
+
