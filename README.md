@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <a href='https://www.behance.com/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Behance.png' width='50'/></a>&nbsp;
 <a href='https://codepen.io/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Codepen.png' width='50'/></a>&nbsp;
 <a href='https://www.instagram.com/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Instagram.png' width='50'/></a>&nbsp;
-<a href='https://www.twittr.com/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Twitter.png' width='50'/></a>&nbsp;
+<a href='https://www.twitter.com/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Twitter.png' width='50'/></a>&nbsp;
 <a href='https://discordapp.com/users/fazim#9133/'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Discord.png' width='50'/></a>&nbsp;
 
