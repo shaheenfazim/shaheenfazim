@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🔗 Connect
-&nbsp;<a href='https://www.linkedin.com/in/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Linkedin.svg' width='2.5vh'/></a>&nbsp;
+&nbsp;<a href='https://www.linkedin.com/in/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Linkedin.svg' width='25vh'/></a>&nbsp;
 <a href='https://www.behance.com/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Behance.svg' width='50'/></a>&nbsp;
 <a href='https://codepen.io/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Codepen.svg' width='50'/></a>&nbsp;
 <a href='https://www.instagram.com/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Instagram.svg' width='50'/></a>&nbsp;
