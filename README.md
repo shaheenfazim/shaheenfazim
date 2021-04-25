@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🔗 Connect
+<div align="center">### 🔗 Connect
 <a href='https://www.linkedin.com/in/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Linkedin.svg' width='50'/></a>&nbsp;
 <a href='https://codepen.io/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Codepen.svg' width='50'/></a>&nbsp;
 <a href='https://www.instagram.com/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Instagram.svg' width='50'/></a>&nbsp;
@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 <a href='https://www.behance.com/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Behance.svg' width='50'/></a>&nbsp;
 <a href='https://stackoverflow.com/users/12257965/shaheen-fazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Stackoverflow.svg' width='50'/></a>&nbsp;
 <a href='https://discordapp.com/users/fazim#9133/'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Discord.svg' width='50'/></a>&nbsp;
-
+</div>
 
