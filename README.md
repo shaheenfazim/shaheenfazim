@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaheen Fazim</h1>
-<h3 align="center">wannabe full-stack developer</h3>
+<h3 align="center">I'm currently doing my graduation in Computer Science Engineering, Who wannabe full-stack developer. You can find me on</h3>
 
 <!--
 **shaheenfazim/shaheenfazim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
