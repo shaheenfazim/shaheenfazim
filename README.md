@@ -17,20 +17,12 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  
 <a href='https://www.linkedin.com/in/shaheenfazim' rel="noopener noreferrer" target="_blank"><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Linkedin.svg' width='50'/></a>&nbsp;
-  
 <a href='https://codepen.io/shaheenfazim' rel="noopener noreferrer" target="_blank"><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Codepen.svg' width='50'/></a>&nbsp;
-  
 <a href='https://www.instagram.com/shaheenfazim' rel="noopener noreferrer" target="_blank"><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Instagram.svg' width='50'/></a>&nbsp;
-  
 <a href='https://www.twitter.com/shaheenfazim' rel="noopener noreferrer" target="_blank"><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Twitter.svg' width='50'/></a>&nbsp;
-  
 <a href='https://www.behance.com/shaheenfazim' rel="noopener noreferrer" target="_blank"><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Behance.svg' width='50'/></a>&nbsp;
-  
 <a href='https://stackoverflow.com/users/12257965/shaheen-fazim' rel="noopener noreferrer" target="_blank"><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Stackoverflow.svg' width='50'/></a>&nbsp;
-  
 <a href='https://discordapp.com/users/fazim#9133/' rel="noopener noreferrer" target="_blank"><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Discord.svg' width='50'/></a>&nbsp;
-  
 </div>
 
