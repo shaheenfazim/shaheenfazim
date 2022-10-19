@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaheen Fazim</h1>
 <h3 align="center">I am a Computer Science Engineer. You can find me on:</h3>
-<code align="center">DESIGN DEVELOP DEBUG</code>
+<h2 align="center"><code>DESIGN DEVELOP DEBUG</code></h2>
 
 <!--
 **shaheenfazim/shaheenfazim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
