@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋, I'm Shaheen Fazim</h1>
-<h3 align="center">I am a Computer Science Engineer. You can find me on:</h3>
+```yaml
+user-data:
+  └─ Shaheen Fazim
+  └─ Computer Science Engineer | Security Researcher | Developer
+  └─ Passionate about designing and developing solutions.
+  └─ Security researcher with 21+ CVEs and uncovered vulnerabilities in Google, Microsoft, Apple, Mozilla, etc.
 
-<div align="center">
-<a href='https://www.linkedin.com/in/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Linkedin.svg' width='5%'/></a>&nbsp;
-<a href='https://codepen.io/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Codepen.svg' width='5%'/></a>&nbsp;
-<a href='https://www.instagram.com/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Instagram.svg' width='5%'/></a>&nbsp;
-<a href='https://www.twitter.com/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Twitter.svg' width='5%'/></a>&nbsp;
-<a href='https://www.behance.com/shaheenfazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Behance.svg' width='5%'/></a>&nbsp;
-<a href='https://stackoverflow.com/users/12257965/shaheen-fazim'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Stackoverflow.svg' width='5%'/></a>&nbsp;
-<a href='https://discordapp.com/users/fazim#9133/'><img src='https://raw.githubusercontent.com/shaheenfazim/shaheenfazim/master/Social/Discord.svg' width='5%'/></a>&nbsp;
-</div>
+programming-skills:
+  └─ html | javascript | css | php | c++ | c | python
 
-<h2 align="center"><code>😍DESIGN 😎DEVELOP 🧐DEBUG</code></h2>
+interests:
+  └─ Web Development | Web3 | Browser Extensions | Scripting | Progressive Web Apps (PWAs)
+
+contact:
+  └─ discord: sfazim
+  └─ linkedin: shaheenfazim
