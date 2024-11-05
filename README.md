@@ -6,10 +6,10 @@ user-data:
   └─ Security researcher with 21+ CVEs and uncovered vulnerabilities in Google, Microsoft, Apple, Mozilla, etc.
 
 programming-skills:
-  └─ html | javascript | css | php | c++ | c | python
+  └─ html | javascript | css | php | xml | c++ | c | python | bash | typescript | sql | go | rust
 
 interests:
-  └─ Web Development | Web3 | Browser Extensions | Scripting | Progressive Web Apps (PWAs)
+  └─ Web Development | Web3 | Browser Extensions | Scripting | PWAs | UI/UX | Angular | Binary Exploitation
 
 contact:
   └─ discord: sfazim
