@@ -3,7 +3,7 @@ user-data:
   └─ Shaheen Fazim
   └─ Computer Science Engineer | Security Researcher | Developer
   └─ Passionate about designing and developing solutions.
-  └─ Security researcher with 21+ CVEs and uncovered vulnerabilities in Google, Microsoft, Apple, Mozilla, etc.
+  └─ Security researcher with 25+ CVEs and uncovered vulnerabilities in Google, Microsoft, Apple, Mozilla, etc.
 
 programming-skills:
   └─ html | javascript | css | php | xml | c++ | c | python | bash | typescript | sql | go | rust
